@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Università degli Studi Suor Orsola Benincasae - Avvisi</title>
+<style>
+ body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; }
+ header { background: #0B9ED9; padding: 15px; color: white; text-align: center; }
+ .container { padding: 20px; max-width: 800px; margin: auto; background: white; }
+ h2 { color: #0077aa; }
+ a { color: #0077aa; text-decoration: none; }
+ ul { list-style: none; padding: 0; }
+ li { padding: 8px 0; border-bottom: 1px solid #ddd; }
+ span.voto { float: right; font-weight: bold; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Università degli Studi Suor Orsola Benincasae</h1>
+</header>
+<div class="container">
+  <h2>Esami di Stato - Sezione B (II sessione 2025) — Risultati I Prova Scritta</h2>
+  <ul>
+    <li>Assunta bastelli <span class="voto">4</span></li>
+    <li>Marika Crisci <span class="voto">4</span></li>
+    <li>Vincenza lanzetta <span class="voto">4</span></li>
+    <li>Maria Rossi <span class="voto">5</span></li>
+    <li>Giovanni Verdi <span class="voto">5</span></li>
+  </ul>
+</div>
+</body>
+</html>
